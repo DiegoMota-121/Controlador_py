@@ -3,8 +3,7 @@ import pyperclip
 import pyautogui
 # importarei abaixo um intervalo conforme comentário 014
 from time import sleep
-
-# https://www.youtube.com/watch?v=UtkPIpov6h8&list=PLnNURxKyyLIJ5ftIIYFLNNLyCmBx5uXYM&index=2 local do curso
+#click, para você brincar -------!!!!!!!------
 # https://cadastro-produtos-devaprender.netlify.app/index.html
 workbook = openpyxl.load_workbook('produtos_ficticios.xlsx')
 sheet_produtos = workbook['Produtos']
